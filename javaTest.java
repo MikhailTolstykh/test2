@@ -3,6 +3,7 @@ public class javaTest {
 
 
         String a =" Aa";
+        int ab =10;
 
         javaTest javaTest = new javaTest();
         try {
