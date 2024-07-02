@@ -1,7 +1,9 @@
 public class javaTest {
     public static void main(String[] args) {
 
-        String a =" Aaаааа";
+
+        String a =" Aa";
+
         javaTest javaTest = new javaTest();
         try {
             javaTest.clone();
